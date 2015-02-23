@@ -1,7 +1,7 @@
 {
     "name": "qrencode",
     "version": "0.0.1",
-    "author": "Someone <email@somesite.com>",
-    "license": "Choose a license",
-    "description": "Briefly describe this library"
+    "author": "Al West <al@tsew.net>",
+    "license": "LGPL 2.1",
+    "description": "qrencode is a wrapper around libqrencode by Kentaro Fukuchi <kentaro@fukuchi.org> to allow it to work with the library feature found in spark.io online IDE"
 }
